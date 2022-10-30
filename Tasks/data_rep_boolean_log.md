@@ -4,23 +4,23 @@
 
 1. 
 
-![](circuit1.jpg)
+![](circuit1.JPG)
 
 2. 
 
-![](circuit2.jpg)
+![](circuit2.JPG)
 
 3.
 
-![](circuit3.jpg)
+![](circuit3.JPG)
 
 4.
 
-![](circuit4.jpg)
+![](circuit4.JPG)
 
 5.
 
-![](circuit5.jpg)
+![](circuit5.JPG)
 
 ## Get the Equation: Write the boolean equation for the circuit shown
 
