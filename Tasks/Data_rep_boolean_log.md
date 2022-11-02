@@ -24,6 +24,18 @@
 
 ## Get the Equation: Write the boolean equation for the circuit shown
 
+1. 
+
+![](equation1.jpg)
+
+2. 
+
+
+
+3. 
+
+
+
 ## Truth table: Write the truth table for the equations below
 
 ![](truthtables.jpg)
